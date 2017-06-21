@@ -1,0 +1,101 @@
+"*":
+  "Sublime-Style-Column-Selection":
+    mouseButtonTrigger: "Right"
+    selectKeyTrigger: "Ctrl"
+  "activate-power-mode":
+    screenShake:
+      enabled: false
+      maxIntensity: 2
+  "api-docs":
+    _theme: "Dark"
+  "atom-beautify":
+    general:
+      _analyticsUserId: "1d0a5489-6450-47a0-bbbb-019a66d40211"
+    handlebars: {}
+    html: {}
+    php:
+      cs_fixer_path: "C:\\Users\\hhorlamus\\.atom\\packages\\php-cs-fixer.phar"
+  "atom-typescript":
+    showSemanticView: true
+  "autoclose-html": {}
+  "autocomplete-plus":
+    backspaceTriggersAutocomplete: true
+  core:
+    disabledPackages: [
+      "activate-power-mode"
+      "neon-cursor"
+      "glowing-cursor"
+      "dash"
+    ]
+    packagesWithKeymapsDisabled: [
+      "atomic-chrome"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    backUpBeforeSaving: true
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "1a18ddba-2919-bbbe-aaf2-d3a26aa39e43"
+  "glowing-cursor":
+    cursorWidth: 2
+    innerColor:
+      alpha: 1
+      blue: 255
+      green: 198
+      red: 64
+  minimap:
+    displayMinimapOnLeft: true
+    plugins:
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      selection: true
+      selectionDecorationsZIndex: 0
+      "split-diff": true
+      "split-diffDecorationsZIndex": 0
+  "minimap-selection":
+    highlightCursorsLines: true
+  "neon-cursor": {}
+  "php-integrator-base": {}
+  "php-integrator-navigation":
+    navigationRequireAltKey: false
+    navigationRequireCtrlKey: true
+  "seti-ui": {}
+  "split-diff":
+    ignoreWhitespace: true
+    syncHorizontalScroll: true
+  "symbols-tree-view": {}
+  welcome:
+    showOnStartup: false
+".css.source.twig":
+  editor:
+    tabLength: 4
+".html.text.twig":
+  editor:
+    tabLength: 4
+".js.source.twig":
+  editor:
+    tabLength: 4
+".json.source.twig":
+  editor:
+    tabLength: 4
+".source.twig":
+  editor:
+    tabLength: 4
+".source.twig.yaml":
+  editor:
+    tabLength: 4
+".text.todo":
+  editor:
+    tabLength: 4
+".text.twig.xml":
+  editor:
+    tabLength: 4
